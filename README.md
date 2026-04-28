@@ -237,17 +237,3 @@ java -cp build driver.KafetariaApp
 
 ---
 
-## 👨‍💻 Pengembang
-
-| | |
-|---|---|
-| **Institusi** | Institut Teknologi Del |
-| **Program** | Sistem Informasi / Teknik Informatika |
-| **Versi** | 1.0.0 |
-| **Bahasa** | Java 14+ |
-
----
-
-## 📝 Lisensi
-
-Proyek ini dikembangkan untuk keperluan akademik Institut Teknologi Del.
